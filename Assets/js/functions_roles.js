@@ -128,6 +128,7 @@ function fntEditRol(idrol){
 
 }
 
+
 function fntDelRol(idrol){
     var idrol = idrol;
     swal({
